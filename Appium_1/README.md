@@ -53,6 +53,6 @@ Now go to eclipse IDE and right click on your project name, click Team, click Sh
 NB: This action is synonymous to git init because the momemt we clicked the finish button the second time, a local git file is created
 
 Right click on the project name again, and click on Teams then click commit
-Now, drag the files from the unstaged changes area into the staged changesarea and enter a commit message and click on commit and push button
+Now, drag the files from the unstaged changes area into the staged changes area and enter a commit message and click on commit and push button
  
 Go to github and copy the url to the newly created repo and paste it in the url field of the moodal that poped up.Click Next 2x and enter your github credentials to finalize the push
